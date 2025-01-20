@@ -11,7 +11,8 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This subproject is under active development.
+   Dieser Subprojekt ist in der Entwicklung. Das wird nur hier geschrieben, um zu sehen, ob es funktioniert.
 
 Contents
 --------
